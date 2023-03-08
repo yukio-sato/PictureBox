@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Picture_Box\Picture_Box\bin\Debug\Picture_Box.exe.config
+C:\Users\User\source\repos\Picture_Box\Picture_Box\bin\Debug\Picture_Box.exe
+C:\Users\User\source\repos\Picture_Box\Picture_Box\bin\Debug\Picture_Box.pdb
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.Form1.resources
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.Properties.Resources.resources
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.exe
+C:\Users\User\source\repos\Picture_Box\Picture_Box\obj\Debug\Picture_Box.pdb
